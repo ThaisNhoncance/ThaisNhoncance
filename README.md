@@ -1,7 +1,7 @@
-### Hi there 👋
+## Oi! Eu sou a Thaís Nhoncance :)
 
 <!--
-**ThaisNhoncance/thaisnhoncance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ThaisNhoncance/ThaisNhoncance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/ThaisNhoncance">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisNhoncance&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div> 
+  <a href="https://instagram.com/auversasylum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaisnhoncance" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
